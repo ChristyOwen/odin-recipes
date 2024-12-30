@@ -1,1 +1,1 @@
-# odin-recipes
+I am working on an ever-changing webpage that will not only showcase HTML, but CSS and javaScript at a later date. For now, this is a bare bones recipe repository. But, it will bloom like a beautiful yeast soon enough.
