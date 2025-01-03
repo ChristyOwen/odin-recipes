@@ -4,4 +4,18 @@
 
 h1 {
     text-align: center;
+    background-color: rgb(189, 197, 241);
+    padding: 15px 10px;
+    border: 5px solid #f8f7f6;
+    color: rgb(80, 79, 79);
+}
+
+.list {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+a {
+    display: block;
+    color: rgb(74, 147, 243);
 }
